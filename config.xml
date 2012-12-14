@@ -3,7 +3,7 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "mx.cenet.geoApp"
         version   = "0.0.1">
-    <name>GeoApp</name>
+    <name>Reloj1</name>
 
     <description>
         PhoneGap API Geolocation.
